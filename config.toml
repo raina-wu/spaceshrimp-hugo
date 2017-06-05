@@ -1,0 +1,39 @@
+baseurl = "http://raina-wu.github.io/"
+languageCode = "en-us"
+title = "Spaceshrimp"
+disqusShortname = "Raina"
+
+[params]
+style = "green"
+description = "Hi, I'm Raina Wu."
+copyright = "&copy;2017 Raina Wu"
+sidebarAbout = [
+"This is supposed to be in the side bar.",
+"Is it true?"         
+ ]
+email = "shrimprr@gmail.com"
+
+[[params.navlinks]]
+name = "Home"
+url = ""
+
+[[params.navlinks]]
+name = "About"
+url = "about/"
+
+[[params.navlinks]]
+name = "3D Works"
+url = "3dwork/"
+
+[[params.navlinks]]
+name = "2D Works"
+url = "2dwork"
+
+[[params.navlinks]]
+name = "Blog"
+url = "blog/"
+
+[params.social]
+email = "shrimprr@gmail.com"
+linkedin = "https://www.linkedin.com/in/xiaoyu-raina-wu/"
+github = "https://github.com/raina-wu"
